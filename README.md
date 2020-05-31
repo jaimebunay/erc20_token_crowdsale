@@ -57,7 +57,7 @@ If we are using a local network to test the crowdsale, we can use different wall
 
 ![step6](screenshots/txnKovanTestnet.png)
 
-5\. Custom tokens can also be added to MyCrypo (note: This only worked during local network tests) 
+5\. Custom tokens can also be added to MyCrypto (note: This only worked during local network tests) 
 
 ![step7](screenshots/MyCrypto.png)
 
